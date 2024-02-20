@@ -1,5 +1,5 @@
 # luzura
-<br>
+
 Luzura Api é uma api desenvolvida para servir de histórico de preço no mercado livre.
 <br>
 
