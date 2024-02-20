@@ -2,23 +2,23 @@
 
 <br>
 
-## POST 
+### POST 
 
 <br>
 
 {
-  "url":"link do site"
+  "url" : "link do site"
 }
 
 <br>
 
-## Retorno
+### Retorno
 
 <br>
 
 {
-  "nome":"nome",
-  "url":"url",
-  "price":000,
-  "date":"0000-00-00"
+  "nome" : "nome",
+  "url" : "url",
+  "price" : 000,
+  "date" : "0000-00-00"
 }
