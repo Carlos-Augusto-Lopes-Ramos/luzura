@@ -16,9 +16,9 @@
 
 <br>
 
-{
-  "nome" : "nome",
-  "url" : "url",
-  "price" : 000,
-  "date" : "0000-00-00"
+{<br>
+  "nome" : "nome", <br>
+  "url" : "url", <br>
+  "price" : 000, <br>
+  "date" : "0000-00-00" <br>
 }
