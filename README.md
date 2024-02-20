@@ -15,7 +15,7 @@ Luzura Api é uma api desenvolvida para servir de histórico de preço no mercad
 
 ### POST 
 <br>
-caminho: api/luzura
+caminho: {host}/api/luzura
 <br>
 {
   "url" : "link do site"
