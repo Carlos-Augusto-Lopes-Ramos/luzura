@@ -2,7 +2,7 @@
 
 <br>
 
-###POST 
+##POST 
 
 <br>
 
@@ -12,13 +12,13 @@
 
 <br>
 
-###Retorno
+##Retorno
 
 <br>
 
 {
-  "nome":"nome"
-  "url":"url"
-  "price":000
+  "nome":"nome",
+  "url":"url",
+  "price":000,
   "date":"0000-00-00"
 }
