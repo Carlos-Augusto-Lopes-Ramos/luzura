@@ -5,14 +5,17 @@
 ###POST 
 
 <br>
+
 {
   "url":"link do site"
 }
+
 <br>
 
 ###Retorno
 
 <br>
+
 {
   "nome":"nome"
   "url":"url"
